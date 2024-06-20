@@ -1,0 +1,2 @@
+# InventoryInformationManagement
+ 基于SSM框架的库存信息管理系统，系统角色为管理员
